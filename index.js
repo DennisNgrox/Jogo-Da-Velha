@@ -78,10 +78,6 @@
                         return new Promise(resolve => setTimeout(resolve, ms));
                     }
 
-                    function teste() {
-                        var i = document.getElementById('espacos').innerHTML;
-                        
-                        if(i = 0) {
-                            document.getElementById('espacos').innerHTML = '';
-                        }
+                    function teste() {                 
+                        location. reload();
                     }
