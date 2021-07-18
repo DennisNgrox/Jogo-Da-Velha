@@ -1,0 +1,139 @@
+    body {
+        background-color: #AAA;
+        text-align: center;
+        font-family: Verdana, Helvetica, sans-serif;
+
+    }
+
+    div#tabuleiro {
+        background-color: rgb(211, 57, 57);
+        margin-top: 5%;
+        width: 45%;
+        height: 513px;
+        color: white;
+        float: left;
+      
+    }
+
+
+    #reiniciar {
+        margin-top: 2%;
+        width: 10vw;
+        height:6vw;
+        font-size: 1em;
+        color: black;
+    }
+
+    p {
+        
+        font-size: 50px;
+        color: rgb(255, 255, 255);
+        display: block;
+        text-align: center;
+
+    }
+
+    div#a1 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+       
+      
+    }
+
+    div#a2 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#a3 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#b1 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#b2 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+       
+    }
+
+    div#b3 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#c1 {
+        width: 33%;;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#c2 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#c3 {
+        width: 33%;
+        height: 170px;
+        background-color: black; 
+        border-right: solid 1px rgb(255, 255, 255);
+        border-bottom: solid 1px white;
+        float: left;
+        
+    }
+
+    div#mostrador img {
+      
+        margin-top: 3%;
+        margin-left: -60%;
+        height:50px;
+        display: inline
+
+    }
+
+    img {
+        height:150px;
+    }
+
