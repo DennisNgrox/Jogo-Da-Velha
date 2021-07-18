@@ -13,10 +13,10 @@
 
                     if (playTime == player1) {
                         var player = document.querySelectorAll("div#mostrador img")[0];
-                        player.setAttribute("src", "X.png");
+                        player.setAttribute("src", "https://i.ibb.co/ss113nW/X.png");
                     } else{
                         var player = document.querySelectorAll("div#mostrador img")[0];
-                        player.setAttribute("src", "O.png");
+                        player.setAttribute("src", "https://i.ibb.co/pydkfSf/O.png");
                     }
                 }
 
